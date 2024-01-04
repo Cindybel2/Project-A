@@ -22,4 +22,14 @@ public class DemoA {
        public static void substract (int a, int b) {
 		
 		System.out.println(a - b);
+
+       }
+}
+
+        //Coming from GitHub
+       public static void divide (int a, int b) {
+		
+		System.out.println(a / b);
+
+       }
 }
