@@ -22,17 +22,15 @@ public class DemoA {
        public static void substract (int a, int b) {
 		
 		System.out.println(a - b);
-<<<<<<< HEAD
-=======
+
 
        }
-}
+
 
         //Coming from GitHub
        public static void divide (int a, int b) {
 		
 		System.out.println(a / b);
 
->>>>>>> branch 'master' of https://github.com/Cindybel2/Project-A.git
        }
 }
