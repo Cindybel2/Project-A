@@ -11,5 +11,11 @@ public class DemoA {
 		System.out.println("JavaFun");
 		
 	}
+	
+	public static void add (int a, int b) {
+		
+		System.out.println(a + b);
+		
+	}
 
 }
