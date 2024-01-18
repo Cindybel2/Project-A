@@ -33,4 +33,21 @@ public class DemoA {
 		System.out.println(a / b);
 
        }
+       
+       
+       //Sprint 2 automation
+       public static void add ( int x, int y, int z) {
+    	   
+    	   
+    	   System.out.println(x + y + z);
+    	   
+    	   
+       }
+       
+       //Sprint 3 automation
+       public static void mult ( int x, int y, int z) {
+    	   
+    	   
+    	   System.out.println(x * y * z);
+       }
 }
